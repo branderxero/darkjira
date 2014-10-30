@@ -18,7 +18,8 @@
             "all_frames": false, 
             "js": [ "js/start.js"], 
             "matches": [ 
-                "*://*.atlassian.net/*"
+                "*://*.atlassian.net/*",
+                "*://jira.brandingbrand.com/*"
             ],
             "run_at": "document_start" 
         } 
